@@ -136,7 +136,10 @@
      }
 
      body {
-       background-color: #fff;
+       height: fit-content;
+  background-image: url("../img/bg3.jpg");
+  background-repeat: repeat;
+  background-size: cover;
      }
 
      h3 {
